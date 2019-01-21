@@ -1,0 +1,47 @@
+/*
+body{
+	background: url('http://www.globo-rojo.com/wp-content/uploads/Camp-nou-match.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+ */
+
+.jumbotron{
+	 
+
+height: 400px;
+	 margin-bottom: 0px;
+	background-image: url('http://www.fcbarcelonaticketsonline.com/wp-content/uploads/2015/04/fc_barcelona_facebook_cover_photo.jpg');
+
+	 background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+.jumbotron p {
+	padding-top: 270px;
+}
+
+
+.fa-soccer-ball-o:before, .fa-futbol-o:before { 
+
+	color: red;
+}
+
+.navbar-inverse .navbar-collapse, {
+
+		background-color: 0000CD;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+	font-family: 'Abril Fatface', cursive;
+}
+
+.navbar-inverse{
+	background: #000080;
+}

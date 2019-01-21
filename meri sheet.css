@@ -1,0 +1,27 @@
+body{
+	padding-top: 70px;
+}
+
+.jumbotron {
+	color: black ;
+	background: #98FB98;
+	font-family: 'Abril Fatface', cursive;
+}
+
+.jumbotron p {
+	padding-left: 70px;
+}
+
+.navbar-inverse{
+	background: #1E90FF;
+}
+
+.navbar-inverse .navbar-brand, .navbar-inverse a{
+      color:white;
+      font-family: 'Abril Fatface', cursive;
+    }
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+	font-family: 'Abril Fatface', cursive;
+}
